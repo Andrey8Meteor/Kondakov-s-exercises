@@ -1,0 +1,10 @@
+{
+  "name": "math-test-project",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
