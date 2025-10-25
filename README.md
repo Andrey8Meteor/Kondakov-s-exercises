@@ -48,11 +48,20 @@
   - [logger.test.js](./spy-tests/logger.test.js) - тесты с jest.spyOn
 - **Описание**: Тестирование с spy на встроенные функции
 
+### 7. Coverage Tests
+- **Папка**: `coverage-tests/`
+- **Запуск**: `cd coverage-tests && npm test`
+- **Покрытие**: `cd coverage-tests && npm run test:coverage`
+- **Файлы**:
+  - [math.js](./coverage-tests/math.js) - функция calculateDiscount
+  - [math.test.js](./coverage-tests/math.test.js) - тесты с 100% покрытием
+- **Описание**: Достижение 100% покрытия кода с test.each()
+
 ## 🚀 Как использовать
 1. Клонируйте репозиторий: `git clone https://github.com/Andrey8Meteor/Kondakov-s-exercises.git`
 2. Перейдите в папку нужного задания
 3. Следуйте инструкциям в README.md
 
-## �� Контакты
+## 📞 Контакты
 - **Автор**: Андрей
 - **GitHub**: [Andrey8Meteor](https://github.com/Andrey8Meteor)
