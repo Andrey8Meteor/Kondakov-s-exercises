@@ -33,4 +33,14 @@
 3. **Улучшить обратную связь** - понятные объяснения ошибок
 
 ## 📊 Визуализация
-_Здесь будет карта из Miro/Canva_
+_Здесь будет карта из Miro/Canva_[CJM Diagram](./assets/cjm-diagram.txt)
+
+## 📊 Визуализация
+
+## 📊 Визуализация
+![CJM Diagram](./assets/cjm-diagram.txt)
+
+## 📊 Визуализация
+![CJM Diagram](./assets/cjm-diagram.txt)
+
+## 📊 Визуализация
