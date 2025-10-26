@@ -1,6 +1,7 @@
 {
   "name": "playwright-tests",
   "version": "1.0.0",
+  "description": "Playwright tests for TodoMVC with Page Object Pattern",
   "scripts": {
     "test": "npx playwright test",
     "test:ui": "npx playwright test --ui",
