@@ -33,14 +33,15 @@
 3. **Улучшить обратную связь** - понятные объяснения ошибок
 
 ## 📊 Визуализация
-_Здесь будет карта из Miro/Canva_[CJM Diagram](./assets/cjm-diagram.txt)
+![CJM Diagram](./assets/cjm-diagram.png)
 
-## 📊 Визуализация
+## 📋 Документация проекта
 
-## 📊 Визуализация
-![CJM Diagram](./assets/cjm-diagram.txt)
+### 1. Value Proposition Canvas
+[📊 Скачать PDF](./docs/VALUE%20PROPOSITION%20CANVAS.pdf)
 
-## 📊 Визуализация
-![CJM Diagram](./assets/cjm-diagram.txt)
+### 2. Customer Journey Map
+[🗺️ Скачать PDF](./docs/customer-journey-map.pdf)
 
-## 📊 Визуализация
+### 3. Business Model Canvas  
+[💼 Скачать PDF](./docs/business-model-canvas.pdf)
