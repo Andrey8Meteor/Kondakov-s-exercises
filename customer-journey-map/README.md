@@ -45,3 +45,5 @@
 
 ### 3. Business Model Canvas  
 [💼 Скачать PDF](./docs/business-model-canvas.pdf)
+
+[📊 Анализ конкурентов (PDF)](./docs/competitor-analysis.pdf)
