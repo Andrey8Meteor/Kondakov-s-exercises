@@ -14,7 +14,7 @@ module.exports = defineConfig({
     ['html', { open: 'never' }],
     ['list']
   ],
-  
+
   use: {
     baseURL: 'https://demo.playwright.dev',
     actionTimeout: 0,
@@ -24,8 +24,8 @@ module.exports = defineConfig({
 
   projects: [
     {
-      name: 'chromium',
-      use: { ...devices['Desktop Chrome'] },
+      name: 'firefox',
+      use: { ...devices['Desktop Firefox'] },
     }
   ],
-}); 
+});
